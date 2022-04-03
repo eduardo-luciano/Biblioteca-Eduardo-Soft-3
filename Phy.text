@@ -1,0 +1,26 @@
+  PHY é uma abreviatura comum para a camada física do
+modelo OSI .
+Chip PHY Realtek RTL8201BL FastEthernet
+PHY é também um termo genérico em eletrônica que se
+refere a um circuito integrado especial ou bloco funcional
+de um circuito que cuidam da codificação/decodificação
+entre um domínio puramente digital e uma modulação
+num domínio analógico . Tais circuitos são
+freqüentemente usados para interfacear uma FPGA,
+CPLD ou um microcontrolador/ processador para um tipo
+específico de barramento ou interface de comunicação.
+Exemplos de uso
+Ethernet : um chip PHY (denominado PHYceiver ) é
+encontrado comumente em dispositivos Ethernet . Sua
+finalidade é o acesso digital ao vínculo modulado.
+Geralmente é empregado em conjunto com um chip
+MII ou interfaceado com um microcontrolador que
+assume as tarefas das camadas mais altas.
+USB: um chip PHY integrado na maioria dos
+controladores Universal Serial Bus (USB) em hosts ou
+sistemas embarcados o qual fornece a integração
+entre as partes digital e modulada da interface.
+IrDA : a especificação IrDA inclui uma especificação
+IrPHY para a camada física do transporte de dados.
+S-ATA : controladores Serial ATA como o VIA 6421
+usam um PHY.
