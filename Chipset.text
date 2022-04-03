@@ -1,0 +1,67 @@
+  P ara que serve um chipset em um computador?
+A pergunta tem uma resposta simples, mas
+nem todos os usuários a tem na ponta da
+língua. Isso porque, diferente do processador
+ou da RAM, esse componente é menos
+conhecido.
+No entanto, sem ele é bem provável que o seu PC não
+funcionasse. De maneira resumida, podemos dizer que
+o chipset é o responsável pelo controle de comunicação
+entre os componentes. CPU, RAM, HD, SSD e outros
+periféricos “conversam” entre si graças ao chipset que
+está na placa-mãe.
+Ele também é o responsável por determinar com
+quantas unidades USB ou dispositivos de alta
+velocidade o seu computador é capaz de trabalhar.
+Esse conjunto de chips (ou circuitos integrados) é
+utilizado na placa-mãe. Ou seja, ele é praticamente um
+cérebro dentro da operação.
+Por dentro do chipset
+Embora os chipsets sejam criados por empresas como
+Intel ou AMD, eles estão presentes nas placas-mãe de
+outros fabricantes. Assim, diferentes chipsets
+suportam diferentes tipos de CPU e é justamente a
+esse item que os consumidores devem ficar atentos.
+CPU e chipset precisam ser compatíveis, caso contrário
+nada funcionará.
+Ao fazer a sua escolha, veja ainda quais são os
+atributos que ele oferece. Geralmente essa informação
+vem associada à placa-mãe, uma vez que é ela que
+compramos para montar o PC. Um chipset mais antigo
+ou mais simples pode ter limitação ao suporte de
+entradas USB, por exemplo, ainda que haja espaço
+para inclusão de outras.
+Os limites do chipset determinam ainda quais são as
+possibilidades de expansão que você tem. De nada
+adianta comprar 32 GB de RAM se o seu chipset é
+compatível apenas com 16 GB, por exemplo. Da
+mesma forma, os overclocks também encontram nos
+limites do chipset o máximo de velocidade que podem
+alcançar.
+Em resumo: é o seu chipset que determina quais partes
+são compatíveis, até quais capacidades ou quantidades
+a sua máquina pode ser expandida e quais são os
+limites de desempenho em um overclock. Ou seja,
+pesquisar um pouco mais sobre cada um deles antes
+de escolher a placa-mãe se torna essencial para
+qualquer usuário.
+Entendendo o que um chipset
+determina
+Vamos a um exemplo prático para tornar o
+entendimento mais fácil. Tomemos como base os
+chipsets Z170 e X99, ambos da Intel. O primeiro
+modelo tem suporte a até 64 GB de RAM do tipo DDR4
+enquanto o segundo suporta até 128 GB.
+A Z170 tem quatro 16x PCI Express 3.0, mas o máximo
+em termos de processamento que ela pode acomodar é
+um Intel Core i7-6700K, que chega a apenas 16 vias em
+um total de 36. Já a X99 pode acomodar até 40 vias
+PCI Express, se você tiver um processador como Core
+i7-6850.
+Ou seja: antes de pensar em aumentar o desempenho
+da sua máquina, adicionando mais RAM ou comprando
+um novo processador, é fundamental que você
+compreenda primeiro qual é o seu chipset e quais são
+os limites que ele suporta. Caso contrário, não haverá
+compatibilidade e você ficará com um “peso morto”
+nas mãos.
